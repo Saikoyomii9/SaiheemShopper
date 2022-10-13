@@ -53,7 +53,7 @@ const ExistingListScreen = props => {
         const onListDelete = () => {
                 return Alert.alert(
                   //title 
-                  'Confirm',
+                  'Confir',
                   //message
                   'Are you sure you want to delete this list?',
                   //buttons
